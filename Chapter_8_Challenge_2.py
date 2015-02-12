@@ -1,5 +1,5 @@
 # TV.py
-# Created by: Zach Golik y Brianna Melius
+# Created by: Zach Micheal Joseph Anthony Golik y Brianna Nicole Melius
 # Date: 02/08/15
 
 class Television(object):
